@@ -1,0 +1,10 @@
+* serializable-object
+
+An abstract class for serializable CLOS objects.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/serializable-object.git   |
+| commit  | ed1d498  |
+| systems | serializable-object |
+|---------+-------------------------------------------|
+
